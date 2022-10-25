@@ -23,6 +23,6 @@ Pull and analyze weather data in Oahu for the months of June and December.
 
 
 ## Summary
-In our analysis, it is apparent that temperatures very much more in December than they do in June. Despite this variability in temperature, it is still rather temperement and does not drop below 56 degrees.
+In our analysis, it is apparent that temperatures vary more in December than they do in June. Despite this variability in temperature, it is still rather temperement and does not drop below 56 degrees.
 
 In general, I do not think that temperature should be the main weather metric to analyze when determining the feasibility of opening a surf shop in Oahu. Other metrics, such as precipitation and wind speeds, should also be considered.
